@@ -1,0 +1,13 @@
+{
+    "name": "7.6.NotUsed-LineSupport",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
